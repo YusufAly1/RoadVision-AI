@@ -1,9 +1,14 @@
 # RoadVision AI - Traffic Intelligence System
 
 
-DEMO
 
-<video src="https://github.com/YusufAly1/RoadVision-AI/releases/download/v1.0/DEMO.mp4" controls width="100%"></video>
+## 🎥 Demo
+
+[![Watch the Demo](https://raw.githubusercontent.com/YusufAly1/RoadVision-AI/main/IMD1wIluwFT6s.png)](https://github.com/YusufAly1/RoadVision-AI/releases/download/v1.0/DEMO.mp4)
+
+▶ Click the image above to watch the full RoadVision AI demo.
+
+
 
 
 ![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)
