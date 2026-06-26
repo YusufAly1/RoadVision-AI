@@ -1,7 +1,7 @@
 # RoadVision AI - Traffic Intelligence System
 
 
-![RoadVision AI Demo](assets/demo-preview.png)
+
 
 <video src="https://github.com/YusufAly1/RoadVision-AI/releases/download/v1.0/DEMO.mp4" controls width="100%"></video>
 
