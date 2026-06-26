@@ -4,7 +4,10 @@
 
 ## 🎥 Demo
 
-[![Watch the Demo](https://raw.githubusercontent.com/YusufAly1/RoadVision-AI/main/IMD1wIluwFT6s.png)](https://github.com/YusufAly1/RoadVision-AI/releases/download/v1.0/DEMO.mp4)
+[![Watch the Demo](https://raw.githubusercontent.com/YusufAly1/RoadVision-AI/main/IMD1wIluwFT6s.png)]
+<video controls width="100%">
+  <source src="https://github.com/YusufAly1/RoadVision-AI/releases/download/v1.0/DEMO.mp4" type="video/mp4">
+</video>
 
 ▶ Click the image above to watch the full RoadVision AI demo.
 
