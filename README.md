@@ -1,5 +1,10 @@
 # RoadVision AI - Traffic Intelligence System
 
+
+<p align="center"> <a href="https://youtu.be/ZTzL_aBqbhw"> <img src="https://raw.githubusercontent.com/YusufAly1/RoadVision-AI/main/IMD1wIluwFT6s.png" width="900"> </a> </p>
+
+<p align="center"> <b>Click the image above to watch the demo video</b> </p>
+
 ![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
