@@ -1,0 +1,43 @@
+# Environments
+venv/
+.venv/
+env/
+.env
+
+# Python Caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+
+# OS / Editor Files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.bak
+*.hidden
+*.log
+
+# Project Outputs
+accident_outputs/
+outputs/
+reports/
+session_summary_*.csv
+violations_events_*.csv
+
+# Media Data
+*.mp4
+*.avi
+*.mov
+data/
+videos/
+
+# AI Models & Weights
+models/_weights/
+*.pt
+*.pth
+*.onnx
+*.safetensors
+*.bin
